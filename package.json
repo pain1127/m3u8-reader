@@ -1,0 +1,19 @@
+{
+  "name": "m3u8-reader",
+  "version": "1.0.0",
+  "description": "m3u8 reader prototype",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pain1127/m3u8-reader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pain1127/m3u8-reader/issues"
+  },
+  "homepage": "https://github.com/pain1127/m3u8-reader#readme"
+}
