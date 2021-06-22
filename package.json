@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/pain1127/m3u8-reader/issues"
   },
-  "homepage": "https://github.com/pain1127/m3u8-reader#readme"
+  "homepage": "https://github.com/pain1127/m3u8-reader#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "mediainfo-wrapper": "^1.2.0",
+    "url-parse": "^1.5.1"
+  }
 }
